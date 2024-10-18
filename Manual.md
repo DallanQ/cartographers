@@ -1,31 +1,3 @@
-## Introduction (Page 2)
-
-Queen Gimnax has ordered the reclamation of the northern lands. As a cartographer in her service, you are sent to map this territory, claiming it for the Kingdom of Nalos. Through official edicts, the queen announces which lands she prizes most, and you will increase your reputation by meeting her demands.
-
-But you are not alone in this wilderness. The Dragul contest your claims with their outposts, so you must draw your lines carefully to reduce their influence.
-
-Reclaim the greatest share of the queen’s desired lands and you will be declared the greatest cartographer in the kingdom.
-
-## Overview (Page 2)
-
-In **Cartographers**, players compete to earn the most reputation stars by the time four seasons have passed.
-
-Each season, players draw on their map sheets and earn reputation by carrying out the queen’s edicts before the season is over.
-
-The player with the most reputation stars at the end of winter wins!
-
-## Components (Page 3)
-
-- 100 Map Sheets (double sided)
-- 13 Explore Cards
-- 16 Scoring Cards
-- 4 Season Cards
-- 4 Ambush Cards
-- 4 Edict Cards
-- 4 Pencils
-
-> A set of game components neatly laid out. The 100 double-sided map sheets are displayed in a stack. The 4 pencils are placed next to them. Nearby, 4 edict cards are shown face-up, along with the explore, scoring, ambush, and season cards arranged in distinct piles. The entire scene shows a complete set of game materials ready for play.
-
 ## Game Setup (Page 4)
 
 1. Give each player a blank **map sheet**. Players collectively decide whether to use the wilderness side (A) or the wastelands side (B).
