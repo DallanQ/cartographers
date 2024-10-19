@@ -1,3 +1,13 @@
+## Overview (page 2)
+
+In Cartographers, players compete to earn the most reputation stars by the
+time four seasons have passed.
+
+Each season, players draw on their map sheets and earn reputation by carrying
+out the queen’s edicts before the season is over.
+
+The player with the most reputation stars at the end of winter wins!
+
 ## Game Setup (Page 4)
 
 1. Give each player a blank **map sheet**. Players collectively decide whether to use the wilderness side (A) or the wastelands side (B).
@@ -13,7 +23,7 @@
 8. Shuffle the **explore cards** to form a face-down deck. Take the top card of the ambush deck and shuffle it into this explore deck, without revealing it. Finally, place the explore deck next to the stack of season cards.
 9. The game is ready to begin!
 
-> A fully set up game board with edict cards placed in the center, explore and ambush cards stacked nearby, and map sheets ready for players. The season cards are in a separate stack, with the spring card on top, clearly marked for easy access.
+> image of a fully set up game board with edict cards placed in the center, explore and ambush cards stacked nearby, and map sheets ready for players. The season cards are in a separate stack, with the spring card on top, clearly marked for easy access.
 
 ## How to Play (Page 5)
 
@@ -27,7 +37,7 @@ Reveal the top card of the explore deck and place it face up in the center of th
 
 - If the second revealed card is also a ruins card, immediately reveal another card from the explore deck and place it on top of both ruins cards.
 
-> A sample explore card revealed in the center of the play area. The ruins card, marked by a symbol of broken stone, is displayed first, followed by a forest card, marked by a cluster of trees. The second card has a title of "Forgotten Forest" and a time value of 1 and both cards are displayed in a column so that the time values are visible.
+> image of a sample explore card revealed in the center of the play area. The ruins card, marked by a symbol of broken stone, is displayed first, followed by a forest card, marked by a cluster of trees. The second card has a title of "Forgotten Forest" and a time value of 1 and both cards are displayed in a column so that the time values are visible.
 
 ### 2. Draw Phase (Page 6)
 
@@ -36,21 +46,21 @@ At the same time, each player independently chooses one of the **terrain types**
 - The chosen shape cannot overlap filled spaces or the edges of the map. (Mountain spaces and wasteland spaces are filled spaces.)
 - The chosen shape does not have to be drawn adjacent to any shapes previously drawn on the map.
 
-> An illustration showing the setup of the game. The top part of the image illustrates a 3x3 grid surrounding a mountain space in the center. The mountain is marked with a red "X," indicating it is an impassable space. The six surrounding spaces are filled and marked with green checkmarks, showing that the mountain is fully surrounded, fulfilling the requirement to earn a coin for completing the mountain objective. The bottom part of the image features a "Forgotten Forest" explore card. This card displays a forest terrain type and a specific shape that players must draw on their map. The highlighted shape is a Tetris-like configuration made up of four connected squares. Below the card, the same shape is illustrated on a player's map sheet, where each square is filled with the forest terrain symbol. The black circle magnifies the Tetris shape from the card, helping players visualize and replicate it on their map during the Draw Phase.
+> image showing the setup of the game. The top part of the image illustrates a 3x3 grid surrounding a mountain space in the center. The mountain is marked with a red "X," indicating it is an impassable space. The six surrounding spaces are filled and marked with green checkmarks, showing that the mountain is fully surrounded, fulfilling the requirement to earn a coin for completing the mountain objective. The bottom part of the image features a "Forgotten Forest" explore card. This card displays a forest terrain type and a specific shape that players must draw on their map. The highlighted shape is a Tetris-like configuration made up of four connected squares. Below the card, the same shape is illustrated on a player's map sheet, where each square is filled with the forest terrain symbol. The black circle magnifies the Tetris shape from the card, helping players visualize and replicate it on their map during the Draw Phase.
 
 - The chosen shape may be drawn so that it overlaps a ruins space on the map.
 - The chosen shape can be rotated and/or flipped as needed before it is drawn on the map.
 - After drawing the chosen shape, a player fills the shape with the chosen terrain type.
 - If a player cannot legally draw any of the available shapes, they must instead draw a 1x1 square anywhere on their map and fill it with any terrain type (excluding mountains).
 
-> A central tile with a mountain symbol and a coin is surrounded by four tiles. The top-left and top-right tiles feature wave-like symbols, while the bottom-left and bottom-right tiles each contain an upward arrow symbol. The red border highlights these surrounding tiles, possibly indicating an important interaction or a region of influence in the game context.
+> image of a central tile with a mountain symbol and a coin is surrounded by four tiles. The top-left and top-right tiles feature wave-like symbols, while the bottom-left and bottom-right tiles each contain an upward arrow symbol. The red border highlights these surrounding tiles, possibly indicating an important interaction or a region of influence in the game context.
 
 - Each mountain space has four adjacent spaces. If a player surrounds a mountain space by filling all four adjacent spaces, they fill in the next coin symbol on their coin track.
 - Some shapes come with a coin. If a player chooses a shape with a coin, they fill in the next coin symbol on their coin track.
 
 > An image displaying the coin track used to record players' earned coins in Cartographers. The track is a horizontal bar marked with a series of coin symbols, representing the progression of earned coins. A red circle highlights the third coin symbol on the track, indicating that the player has earned two coins so far. The left side of the track features a crossed square marker, which is used to visually track the total number of coins earned.
 
-## Terrain Types (Page 7)
+#### Terrain Types (Page 7)
 
 - **Forest**: Depicted by a collection of three green trees.
 - **Village**: Shown as a red house icon.
@@ -61,19 +71,25 @@ At the same time, each player independently chooses one of the **terrain types**
 
 > Six terrain types shown in a row, each represented by a distinct symbol. Forest has green trees, Village has a red house, Farm is shown with golden crop lines, Water has wavy blue lines, Monster has a purple creature silhouette, and Mountain is depicted by jagged peaks with a gold coin.
 
+##### Rift Lands (page 7)
+
 > A card titled "Rift Lands" featuring bright colors with the instruction to draw a 1x1 square and fill it with a terrain type.
 
-**Rift Lands:** If the **rift lands** card is revealed, each player draws a 1x1 square anywhere on their map and fills it with any terrain type shown on the card. All normal rules and restrictions apply.
+If the **rift lands** card is revealed, each player draws a 1x1 square anywhere on their map and fills it with any terrain type shown on the card. All normal rules and restrictions apply.
+
+##### Ruins (page 7)
 
 > A card titled "Outpost Ruins" with an image of a tower in the wilderness, signifying the ruins feature in the game.
 
-**Ruins:** If one or more ruins cards are revealed, each player must draw one of the available shapes depicted on the next explore card that is revealed, so that it overlaps a ruins space on their map (if possible).
+If one or more ruins cards are revealed, each player must draw one of the available shapes depicted on the next explore card that is revealed, so that it overlaps a ruins space on their map (if possible).
 
 If a player cannot legally draw one of the available shapes so that it overlaps a ruins space — OR — if there are no unfilled ruins spaces left on their map — they must instead draw a 1x1 square anywhere on their map and fill it with any terrain type (excluding mountains).
 
+##### Ambush (page 7)
+
 > A card titled "Ambush" with an image of a direction arrow and a blocky shape made up of four squares.
 
-**Ambush:** If an ambush card is revealed, check the direction of the arrow shown on the card. Each player immediately passes their map sheet to their neighbor in that direction.
+If an ambush card is revealed, check the direction of the arrow shown on the card. Each player immediately passes their map sheet to their neighbor in that direction.
 
 Each player draws the depicted shape on their neighbor’s map, then fills the shape with the monster terrain type.
 
@@ -114,7 +130,7 @@ Examine the current season card to see which two scoring cards to evaluate. For 
 If the current season is winter, the game is now over; proceed to the end of the
 game. Otherwise, prepare for the next season.
 
-## Preparing for the Next Season (Page 9)
+### Preparing for the Next Season (Page 9)
 
 Discard the top card of the season stack, returning it to the game box. This will reveal the next season card in the stack.
 
@@ -141,101 +157,69 @@ When scoring, keep in mind these general rules:
 - A group of connected spaces that all have the same terrain type is a cluster. Clusters can have any number of spaces (including just a single space).
 - Monster spaces, mountain spaces, and wasteland spaces all count as filled spaces. Only filled ruins spaces count as filled spaces.
 
-> The card for "Sentinel Wood" with forest terrain adjacent to the edge of the map.
+> image of the card for "Sentinel Wood" with forest terrain adjacent to the edge of the map.
 
 **Sentinel Wood**: Earn one reputation star for each forest space adjacent to the edge of the map.
 
-_Druids planted these towering ranks to shield us from something in the wilds beyond._
-
-> The "Treetower" card showing forest terrain completely surrounded by other filled spaces.
+> image of the "Treetower" card showing forest terrain completely surrounded by other filled spaces.
 
 **Treetower**: Earn one reputation star for each forest space surrounded on all four sides by filled spaces or the edge of the map.
 
-_Beneath the canopy, far from bright blue skies, every trail led through tangled thorns and suspicious shadows._
-
-> The "Greenbough" card showing forest spaces in rows and columns.
+> image of the "Greenbough" card showing forest spaces in rows and columns.
 
 **Greenbough**: Earn one reputation star for each row and column with at least one forest space. The same forest space may be scored in a row and a column.
 
-_I’ve mapped deserts. It’s much easier to survey forests, and much more pleasant to take breaks in the shade._
-
-> The "Stoneside Forest" card showing mountain spaces linked by forest clusters.
+> image of the "Stoneside Forest" card showing mountain spaces linked by forest clusters.
 
 **Stoneside Forest**: Earn three reputation stars for each mountain space connected to another mountain space by a cluster of forest spaces.
 
-_Mountains are clear landmarks, islands in a wide sea of trees, but a cartographer’s job is to chart every track hidden in those depths._
-
-> The "Canal Lake" card showing farm and water spaces adjacent to one another.
+> image of the "Canal Lake" card showing farm and water spaces adjacent to one another.
 
 **Canal Lake**: Earn one reputation star for each water space adjacent to at least one farm space. Earn one reputation star for each farm space adjacent to at least one water space.
 
-_Pathways laid with colorful stones topped the channels along each family’s crops, a bit of beauty among their labors in the dirt._
-
-> The "Golden Granary" card with ruins surrounded by water and farm spaces.
+> iamge of the "Golden Granary" card with ruins surrounded by water and farm spaces.
 
 **The Golden Granary**: Earn one reputation star for each water space adjacent to a ruins space. Earn three reputation stars for each farm space on a ruins space.
 
-_The histories say that long ago this place fed an empire. Now nothing grows in the sands blowing among the ruins._
-
-> The "Mages Valley" card showing water and farm spaces next to mountains.
+> image of the "Mages Valley" card showing water and farm spaces next to mountains.
 
 **Mages Valley**: Earn two reputation stars for each water space adjacent to a mountain space. Earn one reputation star for each farm space adjacent to a mountain space.
 
-_The wizards chose their high valley homes carefully, hidden from prying eyes but fertile enough for their strange harvest to thrive._
-
-> The "Shoreside Expanse" card with separate clusters of water and farm spaces.
+> image of the "Shoreside Expanse" card with separate clusters of water and farm spaces.
 
 **Shoreside Expanse**: Earn three reputation stars for each cluster of farm spaces not adjacent to a water space or the edge of the map. Earn three reputation stars for each cluster of water spaces not adjacent to a farm space or the edge of the map.
 
-_A true cartographer knows how to use a theodolite on both rock and raft. You can’t stop drawing the line just because the land ends._
-
-> The "Wildholds" card showing a large cluster of village spaces.
+> image of the "Wildholds" card showing a large cluster of village spaces.
 
 **Wildholds**: Earn eight reputation stars for each cluster of six or more village spaces.
 
-_There had to be six in a cluster to earn a mark on my map, enough to justify the queen dispatching a justice ... or a tax collector._
-
-> The "Greengold Plains" card showing village spaces near multiple terrain types.
+> image of the "Greengold Plains" card showing village spaces near multiple terrain types.
 
 **Greengold Plains**: Earn three reputation stars for each cluster of village spaces that is adjacent to three or more different terrain types.
 
-_Long ago we were a land of wanderers. But when the people put down roots they did so wisely, near everything they needed._
-
-> The "Great City" card showing village spaces in a cluster away from mountains.
+> image of the "Great City" card showing village spaces in a cluster away from mountains.
 
 **Great City**: Earn one reputation star for each village space in the largest cluster of village spaces that is not adjacent to a mountain space.
 
-_In this sprawling nest of intrigue where guilds pursue ancient vendettas, the queen will burn out their venom or rule over ashes._
-
-> The "Shieldgate" card showing village clusters.
+> image of the "Shieldgate" card showing village clusters.
 
 **Shieldgate**: Earn two reputation stars for each village space in the second largest cluster of village spaces. If there are multiple largest clusters, score one of the largest.
 
-_Stake walls ran along paths between the villages, and the inhabitants rushed to defend one another when the wildclans returned._
-
-> The "Borderlands" card with completed rows and columns of filled spaces.
+> image of the "Borderlands" card with completed rows and columns of filled spaces.
 
 **Borderlands**: Earn six reputation stars for each complete row or complete column of filled spaces.
 
-_Once far out beyond the edge of the map, now these lands are squarely on it. Someday our next expedition will begin here._
-
-> The "Broken Road" card showing a diagonal line of filled spaces.
+> image of the "Broken Road" card showing a diagonal line of filled spaces.
 
 **The Broken Road**: Earn three reputation stars for each complete diagonal line of filled spaces that touches the left and bottom edges of the map.
 
-_What’s more incredible: the centuries of labor that it took to build these paved paths or the precision that laid them so straight?_
-
-> The "Lost Barony" card showing a square of filled spaces along one edge.
+> image of the "Lost Barony" card showing a square of filled spaces along one edge.
 
 **Lost Barony**: Earn three reputation stars for each space along one edge of the largest square of filled spaces.
 
-_Lines on a map may not define the loyalty of these fiercely independent people..._
-
-> The "Cauldrons" card showing empty spaces completely surrounded by filled spaces.
+> image of the "Cauldrons" card showing empty spaces completely surrounded by filled spaces.
 
 **The Cauldrons**: Earn one reputation star for each empty space surrounded on all four sides by filled spaces or the edge of the map.
-
-_For generations they have lived in the surrounding lands, but none dare to explore the acrid openings in the ground._
 
 ## Solo Mode (Page 12)
 
@@ -262,6 +246,7 @@ After determining your score, total the numbers in the lower corners of the four
 Then Subtract that total from your score to find your rating.
 
 Queen Gimnax awards you a title based on the highest rating that you met or surpassed:
+
 | | |
 |-------|-------------------------|
 | 30+ | Legendary Cartographer |
