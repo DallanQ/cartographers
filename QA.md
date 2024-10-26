@@ -1,24 +1,80 @@
 [what-if-there-is-not-enough-space-to-draw-ambush](https://boardgamegeek.com/thread/2372541/what-if-there-is-not-enough-space-to-draw-ambush)
 
+> What if (in a late game) there is no place on the map where I could draw an Ambush (in a multiplayer game)?
+
+If a player cannot legally draw the depicted shape on their neighbor's map, they must instead draw a 1x1 square anywhere on their neighbor's map and fill it with the monster terrain type.
+
+> Should the 1x1 space be filled with a specific terrain type?
+
+Yes, the 1x1 space should be filled with the monster terrain type.
+
 [great-city-what-if-theres-only-one-village-cluster](https://boardgamegeek.com/thread/2326507/great-city-what-if-theres-only-one-village-cluster)
+
+> What if there is only one village cluster on the map? Does it still count as the largest one or do you need at least two clusters for this card to score?
+
+If you have only one cluster, it is the largest one. If you have multiple clusters, you sort them by size in a descending order and pick the first one.
 
 [ambush-placement-on-ruins-legal](https://boardgamegeek.com/thread/2276817/ambush-placement-on-ruins-legal)
 
+> When drawing an Ambush on my opponent's sheet, is it legal to draw it over a ruins space?
+
+Yes, it is legal to draw monster terrain on your opponent's map sheet so that it covers a ruins space. There is often strategic merit in doing so.
+
+> Can the 1x1 terrain drawn after all ruins spaces are covered be of any type?
+
+Yes, the 1x1 can be of any terrain, not just one of the types shown on the revealed card.
+
 [scoring](https://boardgamegeek.com/thread/3190747/scoring)
+
+> When scoring AB, then BC, then CD, and AD, do I count the same shapes from previous seasons that I already scored in the next seasons?
+
+Yes, you do! That's why it's beneficial to get certain things early (like coins), as they'll score more than once. Additionally, it can be advantageous to have some elements appear later, so you have more time to build them before they are scored.
+
+> Should I mark the shapes with coins in a special way to remember to collect coins from them in the following seasons?
+
+As soon as you gain a coin for any reason, you immediately fill in one of the coin circles along the horizontal row beneath the map. When it is time to score, simply count how many coins you have filled in. You will get to count the same coins again in future seasons, plus any additional coins you acquire.
 
 [coins](https://boardgamegeek.com/thread/2307486/coins)
 
+> Do we score coins cumulatively? For example, do coins collected in Spring add to the coin count in Fall?
+
+Yes, coins are scored cumulatively. Once you collect a coin, you immediately fill in a coin circle, and all filled-in circles are counted at each scoring phase. This is implied in the rulebook, as it instructs players to blacken the coin circles when earned, and they are counted in each scoring round.
+
 [is-a-1x1-square-considered-a-shape](https://boardgamegeek.com/thread/2890831/is-a-1x1-square-considered-a-shape)
+
+> Is a 1x1 square considered "a shape"?
+
+Yes, a 1x1 square is considered a shape.
 
 [edge-case-filling-the-map](https://boardgamegeek.com/thread/2346255/edge-case-filling-the-map)
 
+> I filled the map with 1 card flip left in Winter of the solo version on the back side of the map. What do I do with the last card flip? Do I ignore the card, and do I still score the coin if the card gives one?
+
+In the rare instance that the map sheet is completely filled, the game immediately ends, and you move directly to scoring. Regarding the coin, if you are forced to place a single square but cannot place it, you do not gain the coin.
+
 [2-ruins-card](https://boardgamegeek.com/thread/2283080/2-ruins-card)
+
+> What should I do when 2 Ruins cards come out one after the other? Do I draw the next explore card on a ruin or the next 2 explore cards?
+
+If both Ruins cards come up in a row, draw the next explore card on the Ruins space, not the next two shapes.
 
 [borderlands-question](https://boardgamegeek.com/thread/2777299/borderlands-question)
 
+> The Borderlands card instructions reads, "Earn six reputation stars for each complete row or complete column of filled spaces." Do the rows or columns have to be on the border of the map, or can they be from any row or column?
+
+Any row or column will score. It does not have to be on the edge of the map.
+
 [scoring-edicts-twice-how-is-this-done](https://boardgamegeek.com/thread/2526996/scoring-edicts-twice-how-is-this-done)
 
+> How do I score the same edict twice? If I add to a cluster or shape in the next season, do I score it again? How do I keep track of what's new versus what's old as the board fills up?
+
+The game doesn't require you to remember what was scored previously. When it’s time to score a given edict, you evaluate the map in its current state and score it as it is at that moment.
+
 [on-placing-monsters](https://boardgamegeek.com/thread/2668858/on-placing-monsters)
+
+> When placing monsters in solo mode, I must start at the given corner as dictated by the raid card itself. If I'm unable to draw it, I move to the next corner using the arrow on the card and continue inward one square at a time. Can I change the orientation of the monster raid if no corner can accommodate it?
+
+No, you do not change the orientation of the monster. You move around the edge of the entire board before you move inward one square. In the English rules you are not allowed to rotate the Ambush shape. However, the German rules allowed the monster to be rotated/flipped, but this is not permitted in the English version.
 
 [shield-gate-scoring](https://boardgamegeek.com/thread/2651761/shield-gate-scoring)
 
@@ -197,4 +253,3 @@
 [ruins-under-water-can-you-still-be-adjacent](https://boardgamegeek.com/thread/2177025/ruins-under-water-can-you-still-be-adjacent)
 
 [different-icons-in-shape](https://boardgamegeek.com/thread/2472303/different-icons-in-shape)
-
