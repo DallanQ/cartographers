@@ -82,7 +82,7 @@ Yes, an ambush card is added at the beginning of every season, including spring.
 
 [can-you-use-both-terraintypes-on-a-combined-card](https://boardgamegeek.com/thread/2940522/can-you-use-both-terraintypes-on-a-combined-card)
 
-> Can you use both terrain types on a combined card in Cartographers? Or would allowing this as a house rule disrupt the game balance?
+> Can you use both terrain types on a combined card? Or would allowing this as a house rule disrupt the game balance?
 
 According to the official rules, you cannot use both terrain types on a combined card; you must choose one type when placing the shape on your map. While it is possible to house-rule this to allow both types, doing so could disrupt game balance, especially with objectives that score based on distinct areas of a single terrain type.
 
@@ -188,7 +188,7 @@ You must choose only one terrain type for the entire shape. Mixing terrain types
 
 [monster-scoring](https://boardgamegeek.com/thread/2750029/monster-scoring)
 
-> I juust played my first game and I lost a point for unfilled squares adjacent to a monster.Do I lose points in each season for the same unfilled squares adjacent to a monster, or is it only counted once?
+> I just played my first game and I lost a point for unfilled squares adjacent to a monster.Do I lose points in each season for the same unfilled squares adjacent to a monster, or is it only counted once?
 
 Yes, you lose points for unfilled squares adjacent to a monster at the end of each season, even if they were counted in previous seasons. Your map is reevaluated at the end of every season, with no memory of previous scores, meaning any unfilled spaces next to monsters will continue to count against you in each scoring phase.
 
@@ -202,48 +202,145 @@ You must choose a shape that you can legally draw on the map if possible. Only i
 
 > Can shapes from Ambush cards be rotated and flipped like those from regular cards?
 
+In multiplayer mode, Ambush shapes can be rotated and flipped just like regular shapes. However, in solo mode, you cannot rotate or flip Ambush shapes; they must be placed exactly as shown on the card. This distinction is outlined in the solo rules on page 12.
 
 [cluster](https://boardgamegeek.com/thread/2413140/cluster)
 
+> Does a series of connected, elongated blocks count as a cluster for "Wildholds"? Does a single 1x1 block count as a cluster for "Shoreside Expanse"? For "Shoreside Expanse," if I have two 4x4 blocks attached, do they count as one cluster or two? Lastly, should the scoring cards be arranged in a set order after shuffling, like urban mission in spring, forest in summer, etc.?
+
+Yes, an elongated series of connected blocks does count as a cluster for "Wildholds," as any group of connected spaces with the same terrain type forms a cluster. A single 1x1 block is also considered a cluster for "Shoreside Expanse." For two 4x4 blocks, if they are orthogonally connected, they count as one cluster for "Shoreside Expanse." The scoring cards do not follow a fixed order after shuffling; one card from each mission type is selected at random for each season.
+
 [ruins-and-riftland](https://boardgamegeek.com/thread/2429468/ruins-and-riftland)
+
+> When a Ruins card is followed by a Riftlands card, does the shape need to be placed on an available Ruins space, or can it be placed anywhere?
+
+Yes, you are correct; the Riftlands shape must be placed on an available Ruins space if one is uncovered. The Ruins requirement applies even for Riftlands, which allows you to place a 1x1 square of any terrain. Only if there is no available Ruins space can the Riftlands shape be placed anywhere.
 
 [ruins-rule-one-of](https://boardgamegeek.com/thread/2389086/ruins-rule-one-of)
 
+> If a Ruins card is followed by a card with two shape options, and only one of those shapes can legally be drawn to overlap a Ruins space, can I choose to forgo that shape and instead place a 1x1 square anywhere on the map?
+
+No, you cannot opt for the 1x1 square placement if at least one of the available shapes can legally overlap a Ruins space. The 1x1 square rule only applies if neither of the provided shapes can be legally placed on a Ruins space.
+
 [ambush-card-after-ruin-card-during-solo-play](https://boardgamegeek.com/thread/2172170/ambush-card-after-ruin-card-during-solo-play)
+
+> In solo play, if I draw an Ambush card immediately after a Ruin card and I have no ruins left, should I place the Ambush in the regular shape, place a 1x1 Ambush, or a 1x1 square with any terrain? Additionally, if the Ambush is resolved normally, should the Ruin card then affect the next Explore card?
+
+Ruins do not interact with Ambush cards, so the Ambush is handled normally in its regular shape. After resolving the Ambush, discard it as usual, regardless of the Ruin card. The Ruin card will affect the next Explore card drawn, not the Ambush. If the Ambush shape cannot be legally drawn, it has no effect but is still discarded, even in solo play.
 
 [end-of-season-scoring-recount-coins-and-previously](https://boardgamegeek.com/thread/2275318/end-of-season-scoring-recount-coins-and-previously)
 
+> When a season ends, should players recount coins and previously scored sections of the map? For coins, does this mean only counting those gained in the last season, or should coins from previous seasons be counted again? Similarly, when scoring objectives, do we re-score sections of the map already counted in past seasons?
+
+Each season's scoring is treated independently, so players should score every coin they have accumulated on their sheet, including those gained in previous seasons. Similarly, they should re-score all relevant sections of the map for each season's objectives, even if they were counted in earlier rounds. This means there is no need to track which areas or coins were already scored in past seasons, as everything applicable on the map is reevaluated for each season's scoring.
+
 [ruin-cards](https://boardgamegeek.com/thread/3033307/ruin-cards)
+
+> When monster cards are revealed, they are removed from the game. What about ruins? Are ruins cards also removed after they are drawn?
+
+Monster (Ambush) cards are removed from play after they are resolved, meaning they won't reappear in future rounds. However, ruins cards are treated differently; they remain part of the explore deck and are shuffled back in at the end of each season, so they can appear again in later rounds.
 
 [are-ruins-considered-to-be-blank-spaces](https://boardgamegeek.com/thread/2267470/are-ruins-considered-to-be-blank-spaces)
 
+> Are ruins considered blank spaces unless filled in?
+
+Yes, ruins are treated as blank spaces until they are filled with terrain. This contrasts with mountain and wasteland spaces, which are always considered filled spaces, regardless of any additions.
+
 [greengold-plains-and-wasteland](https://boardgamegeek.com/thread/2302305/greengold-plains-and-wasteland)
+
+> Does the wasteland terrain on the Wasteland map count as a terrain type for scoring the Greengold Plains card? For example, if a village cluster touches water, forest, and wasteland but no other types, will it score?
+
+Wasteland spaces count as filled spaces but do not count as a terrain type, as they are not included in the list of terrain types on the Greengold Plains card or in the rulebook (page 7). Therefore, the village cluster in this example would not score for Greengold Plains.
 
 [rift-gateambush-draw-on-opponents-sheet](https://boardgamegeek.com/thread/3132501/rift-gateambush-draw-on-opponents-sheet)
 
+> When using a Rift Gate card, are players allowed to draw a monster square on an opponent's sheet, similar to an Ambush card?
+
+No, since the Rift Gate card is a regular explore card and not an Ambush card, players draw the chosen terrain, including a monster square if selected, on their own sheet. While selecting a monster square on your own map might occasionally be strategically useful, it remains situational and must be placed on the player's own board.
+
 [cant-fit-a-shape-so-that-it-overlaps-a-ruin-clarif](https://boardgamegeek.com/thread/2456179/cant-fit-a-shape-so-that-it-overlaps-a-ruin-clarif)
+
+> If I draw a Ruins card and cannot fit any of the available shapes on the Ruins space but still have Ruins spaces open on my map, do I have to place a 1x1 square on an open Ruins space, or can I place it anywhere? Also, can I use any terrain type, or must it be one of the options from the Ruins card?
+
+If you cannot legally place any of the available shapes on a Ruins space, you may place a 1x1 square anywhere on your map, not necessarily on a Ruins space. According to the revised rules, this square can be filled with any terrain type except mountains.
 
 [ambush-in-solo](https://boardgamegeek.com/thread/2347338/ambush-in-solo)
 
+> In solo mode, if an Ambush shape overlaps with a Ruins icon, am I required to place it there, or can I avoid covering the Ruins?
+
+Yes, in solo mode, you must place the Ambush shape on the Ruins icon if it is the first legal position available for the Ambush.
+
 [wildholds-scoring-card](https://boardgamegeek.com/thread/2616618/wildholds-scoring-card)
+
+> With the Wildholds scoring card, if I have a single cluster of 12 village spaces, do I score 8 points or 16 points?
+
+You would score 8 points. The Wildholds card provides 8 VP for each cluster of six or more village spaces, regardless of the size beyond six spaces. Therefore, a cluster of 12 village spaces would still only earn 8 points.
 
 [negociation-plus-filled-ruin-spaces](https://boardgamegeek.com/thread/2794579/negociation-plus-filled-ruin-spaces)
 
+> If I draw a ruins card but have no more available ruin spaces, meaning I must draw only one square, can I still use the Negotiate skill? If so, am I limited to the terrain types on the drawn card, or can I use any terrain type as per the rule for unavailable ruins?
+
+Yes, you can use the Negotiate skill to draw a 2x2 shape in this situation. Since no ruin spaces are available, the rule allows you to draw a 1x1 square of any terrain type. Using Negotiate allows you to draw a 2x2 shape, and you can choose any terrain type (excluding mountains), as per the unavailable ruins rule.
+
 [5-rulesscoring-questions](https://boardgamegeek.com/thread/2279937/5-rulesscoring-questions)
+
+> Does adjacency include diagonal spaces? For example, would water spaces diagonally adjacent to a ruin count for the Golden Granary scoring card?
+
+Adjacency does not include diagonal spaces; only spaces directly above, below, left, and right are considered adjacent. So, for the Golden Granary scoring, only water spaces orthogonally adjacent to ruin spaces will count.
+
+> For "The Broken Road" scoring card, does a complete diagonal line require certain empty spaces to remain unfilled, or can filled squares be adjacent to each other within the diagonal line?
+
+For "The Broken Road," the shaded spaces on the card represent filled areas of any terrain type, including monsters, and the complete diagonal lines do not require specific empty spaces. For example, if you filled a 2x2 square in the lower-left, it would score both lines that intersect in that area.
+
+> When scoring "Lost Barony," does the largest square of filled spaces have to be an actual square, or can I score the largest square area within an irregularly shaped filled space?
+
+When scoring "Lost Barony," you must create an actual square shape. Your filled area needs to form the largest possible square with orthogonally connected filled spaces.
+
+> What defines a "cluster" for cards like "Shieldgate"? Are clusters limited by adjacent spaces only, or can diagonal spaces also form a cluster?
+
+For clusters, spaces must be orthogonally adjacent. Diagonal spaces do not connect to form a cluster. So, for scoring purposes, only adjacent spaces that share an edge are considered part of a cluster.
+
+> For monsters, when losing reputation points, does adjacency to empty spaces include diagonal spaces?
+
+For monster adjacency scoring, only orthogonally adjacent empty spaces cause a loss of reputation points. Diagonal empty spaces do not count as adjacent for this purpose.
 
 [question-about-great-city-scoring](https://boardgamegeek.com/thread/2432952/question-about-great-city-scoring)
 
+> For the Great City scoring card, if a village cluster is adjacent to a mountain space, does it score nothing? Or should you count only the village spaces within the cluster that are not adjacent to a mountain?
+
+If any part of the village cluster is adjacent to a mountain space, that entire cluster scores nothing for the Great City card. To score, you need to identify your largest village cluster that has no spaces adjacent to a mountain. Only that cluster, if it exists, will score one reputation star for each space in it. If your largest cluster is next to a mountain, you must skip it and find the next largest cluster that is not adjacent to any mountain spaces. Additionally, you only need one cluster to score; having two clusters is not required.
+
 [in-great-city-can-i-define-only-spaces-that-share](https://boardgamegeek.com/thread/2728126/in-great-city-can-i-define-only-spaces-that-share)
+
+> In Great City scoring, are clusters defined only by spaces that share a side (orthogonal adjacency), or can spaces connected only by a diagonal also form a cluster?
+
+For Great City scoring, clusters are defined by spaces that share a side with each other, meaning they must be orthogonally adjacent (above, below, left, or right). Spaces that are only connected diagonally are not part of the same cluster. Each cluster must be a contiguous group of spaces with the same terrain type, where each space is connected to at least one other space within the cluster by a shared side. As an exception, a cluster can consist of a single space if it is isolated from others.
 
 [coins-in-play-with-skills-mini-expansion](https://boardgamegeek.com/thread/2613542/coins-in-play-with-skills-mini-expansion)
 
+> If I pay for a skill card in the Skills Mini Expansion, should I erase the coins from the track, allowing me to earn them again, or should I cross them out permanently?
+
+Do not erase the coins. Instead, cross them out on your coin track, following the instructions on the rules card that comes with the Skills Mini Expansion. Coins that have been crossed out do not count towards scoring, but the spaces on your coin track remain filled, indicating that those coins have been earned and spent, thus exhausting their points value.
+
 [about-adjacent-shapes](https://boardgamegeek.com/thread/2312421/about-adjacent-shapes)
+
+> The rules in the rulebook say that shapes may not be drawn adjacent to any previously drawn shapes on the map. However, I see players in videos drawing shapes adjacent to others. Is this allowed?
+
+The rule states: "The chosen shape does not have to be drawn adjacent to any shapes previously drawn on the map," which means adjacency is optional. You can draw shapes adjacent to others, but it is not required. Placing shapes adjacent to others is permitted and often necessary for scoring.
 
 [german-rules-available-now](https://boardgamegeek.com/thread/2286121/german-rules-available-now)
 
 [when-selecting-the-decrees-any-pile-can-go-anywher](https://boardgamegeek.com/thread/2935444/when-selecting-the-decrees-any-pile-can-go-anywher)
 
+> When selecting decrees, is each decree slot assigned a specific type of scoring card, or can any type of scoring card be placed in any decree slot?
+
+Any scoring card can be placed in any decree slot (A, B, C, or D). There's no requirement to assign specific types of scoring cards to specific decree slots.
+
 [skills](https://boardgamegeek.com/thread/2669741/skills)
+
+> When using skill cards, can multiple players use the same skill card during the same season, or is it restricted to one use per season?
+
+Yes, multiple players can use the same skill card in the same season if they each pay the associated coin cost. There is no restriction on how many players can use the same skill card within a season. However, each player may only use one skill per season, so while they can choose from any of the three available skill cards, they cannot activate more than one skill per season.
 
 [how-to-count-points-for-path-of-forests](https://boardgamegeek.com/thread/2699071/how-to-count-points-for-path-of-forests)
 
