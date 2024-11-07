@@ -20,7 +20,7 @@ Yes, it is legal to draw monster terrain on your opponent's map sheet so that it
 
 > When scoring AB, then BC, then CD, and AD, do I count the same shapes from previous seasons that I already scored in the next seasons?
 
-Yes, you do! 
+Yes, you do!
 
 > Should I mark the shapes with coins in a special way to remember to collect coins from them in the following seasons?
 
@@ -66,15 +66,32 @@ The game doesn't require you to remember what was scored previously. When it’s
 
 > When placing monsters in solo mode, I must start at the given corner as dictated by the raid card itself. If I'm unable to draw it, I move to the next corner using the arrow on the card and continue inward one square at a time. Can I change the orientation of the monster raid if no corner can accommodate it?
 
-No, you do not change the orientation of the monster. You move around the edge of the entire board before you move inward one square. You are not allowed to rotate the Ambush shape. 
+No, you do not change the orientation of the monster. You move around the edge of the entire board before you move inward one square. You are not allowed to rotate the Ambush shape.
 
 [shield-gate-scoring](https://boardgamegeek.com/thread/2651761/shield-gate-scoring)
 
+> The Shield Gate scoring card states, "Earn two reputation stars for each village space in the second largest cluster of village spaces." What happens if I only have one cluster of village spaces? Do I still get points?
+
+No, you do not score any points.
+
 [is-an-ambush-card-added-in-spring](https://boardgamegeek.com/thread/3387011/is-an-ambush-card-added-in-spring)
+
+> I noticed there are four ambush cards, the spring scoring sheet also has a section for negative points from monster spaces. Is an ambush card added at the beginning of the game in spring?
+
+Yes, an ambush card is added at the beginning of every season, including spring.
 
 [can-you-use-both-terraintypes-on-a-combined-card](https://boardgamegeek.com/thread/2940522/can-you-use-both-terraintypes-on-a-combined-card)
 
+> Can you use both terrain types on a combined card in Cartographers? Or would allowing this as a house rule disrupt the game balance?
+
+According to the official rules, you cannot use both terrain types on a combined card; you must choose one type when placing the shape on your map. While it is possible to house-rule this to allow both types, doing so could disrupt game balance, especially with objectives that score based on distinct areas of a single terrain type.
+
+
 [move-silently-plus-ambush-card-solo-situation](https://boardgamegeek.com/thread/2482357/move-silently-plus-ambush-card-solo-situation)
+
+> In a solo game of Cartographers, can the Move Silently skill be used with Ambush cards? The skill states "draw the chosen shape," but does that apply to monster shapes, and if so, can it affect their placement?
+
+Officially, the Move Silently skill is not intended to be used with Ambush cards in solo mode. Although Move Silently allows you to adjust placement by choosing the shape's location, Ambush cards follow strict placement rules that the player cannot modify.
 
 [rules-of-greenbough](https://boardgamegeek.com/thread/3068266/rules-of-greenbough)
 
