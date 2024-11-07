@@ -86,7 +86,6 @@ Yes, an ambush card is added at the beginning of every season, including spring.
 
 According to the official rules, you cannot use both terrain types on a combined card; you must choose one type when placing the shape on your map. While it is possible to house-rule this to allow both types, doing so could disrupt game balance, especially with objectives that score based on distinct areas of a single terrain type.
 
-
 [move-silently-plus-ambush-card-solo-situation](https://boardgamegeek.com/thread/2482357/move-silently-plus-ambush-card-solo-situation)
 
 > In a solo game of Cartographers, can the Move Silently skill be used with Ambush cards? The skill states "draw the chosen shape," but does that apply to monster shapes, and if so, can it affect their placement?
@@ -95,31 +94,91 @@ Officially, the Move Silently skill is not intended to be used with Ambush cards
 
 [rules-of-greenbough](https://boardgamegeek.com/thread/3068266/rules-of-greenbough)
 
+> How is scoring calculated for the Greenbough card?
+
+For the Greenbough card, you earn one Reputation Star for each row and each column that contains at least one Forest space. Check each row on your map. If a row has at least one Forest space, score one Reputation Star for that row. Repeat the process for each column. If a column contains at least one Forest space, score one Reputation Star for that column.
+
+Since there are 11 rows and 11 columns, you can score a maximum of 22 Reputation Stars if each row and column contains at least one Forest space. Note that the same Forest space can count once for its row and once for its column. Even if you only place a single Forest space on the map, you will score at least 2 points (one for the row and one for the column it occupies).
+
 [golden-granary-score-card-clarification](https://boardgamegeek.com/thread/2396746/golden-granary-score-card-clarification)
+
+> On the Golden Granary card, the example shows a farm covering a ruins space and water adjacent to another ruins space, scoring a point. However, how are there two adjacent ruins spaces? Is the farm shape meant to be something else to allow water to score?
+
+The ruins spaces on the map are fixed and cannot be adjacent to each other. The example on the Golden Granary card is designed to illustrate scoring possibilities in a limited space. It shows that water spaces score a point if they are adjacent to a ruins space, regardless of whether the ruins is covered or uncovered. The example’s layout is only to clarify this scoring rule and does not represent an actual in-game map configuration.
 
 [scoring-question-shieldgate-card](https://boardgamegeek.com/thread/2683387/scoring-question-shieldgate-card)
 
+> For the Shieldgate card, how does scoring work if a player has two clusters of villages with the same number of tiles? The card says to score based on the second-largest cluster, but it’s unclear if ties count or if there needs to be a different-sized group.
+
+Ties are counted for the "second-largest" cluster on the Shieldgate card. If a player has two clusters of village spaces with the same number of tiles, they will score points for one of these clusters as the second-largest.
+
 [monster-spaces-as-allowable-terrrain](https://boardgamegeek.com/thread/2567415/monster-spaces-as-allowable-terrrain)
+
+> Can monster spaces be used to complete scoring requirements, such as filling rows, columns, or diagonals, or are they considered blockers? We have been playing with monsters as blockers, but I'm not sure if this aligns with the rules.
+
+Yes, monster spaces count as "filled spaces" for all purposes in the game, including completing scoring requirements for rows, columns, and other shapes specified by scoring cards. This means they are not blockers in terms of fulfilling these requirements. Additionally, mountain and wasteland spaces also count as filled for scoring purposes. While it's rare, there may be specific situations where choosing monster terrain can strategically benefit you, such as fulfilling requirements for scoring cards that reward adjacency to multiple terrain types.
 
 [connection-question-stoneside-forest](https://boardgamegeek.com/thread/2275490/connection-question-stoneside-forest)
 
+> For the Stoneside Forest card, which awards points when a forest cluster connects one mountain to another, does the connection need to be orthogonal, or can it be diagonal?
+
+Connections are always considered orthogonal, not diagonal. This means that for the Stoneside Forest card, a forest cluster must connect mountain spaces by sharing sides, not corners. The game’s adjacency rule specifies that spaces sharing a side are adjacent, while spaces connected only at a diagonal are not.
+
 [ruin-then-ambush-then-ruin-then-explore](https://boardgamegeek.com/thread/2511667/ruin-then-ambush-then-ruin-then-explore)
+
+> In a solo game, I encountered this sequence in Spring: Outpost Ruin, Goblin Ambush, Temple Ruin, and then Forgotten Forest. I resolved the Ambush and then used Forgotten Forest to cover the ruin space. Is this correct?
+
+Yes, it is correct. When an Ambush appears after a Ruins card, you resolve the Ambush as normal. After that, when the Forgotten Forest (or another explore card) is drawn, it can be placed over the ruin space as usual. This follows the rule on page 5, which states that if two Ruins cards appear consecutively, a third card is drawn and placed on top of both Ruins cards. However, since there was an Ambush in between, you handle it by resolving each card in sequence.
 
 [same-scoring-with-skill-cards](https://boardgamegeek.com/thread/2445360/same-scoring-with-skill-cards)
 
+> In a solo game, should there be any scoring penalty for using Skill cards? I played with the skills Knowledge and Move Silently and ended up with a high score, which felt unusually lucky. I also wonder if Mountains can be drawn on Ruins spaces.
+
+There is no scoring penalty for using Skill cards, although they do make the game easier and may lead to higher scores. Using Skill cards allows additional strategic options, which can boost your score, especially in solo play. Some players prefer to avoid Skill cards in solo mode for a more challenging experience.
+
+As for drawing on Ruins spaces, you may use any terrain type except Mountains. Although Mountains are listed as a terrain type, they are explicitly excluded from placement on Ruins spaces. This has been confirmed by the rulebook that Ruins spaces should be filled with any terrain type other than Mountains.
+
 [are-shapes-optional-or-mandatory](https://boardgamegeek.com/thread/3063820/are-shapes-optional-or-mandatory)
+
+> Is it mandatory to draw a shape if it’s unhelpful, or can you opt not to place it? For example, if placing a shape would interfere with a high-scoring area, can you choose to skip it?
+
+Yes, if you are able to place a shape, you must do so. The rules require that any drawable shape must be placed if it fits on the map, even if it might disrupt other scoring opportunities. If there are multiple shape options, and only one fits, you must place that fitting shape. Allowing players to skip shapes would also enable them to avoid placing ambushes, which would go against the intended challenge of the game.
 
 [scoring-question](https://boardgamegeek.com/thread/2678513/scoring-question)
 
+> In solo game, if a scoring card (like A) awards points for filling a column or row, do I score that same row or column each time the card scores across multiple rounds? Also, is there a specific adjustment needed for solo scoring?
+
+Yes, in solo play, you score each applicable row or column every time the scoring card is active, which can result in a high score. However, for solo games, you also need to subtract specific values from your final score, as indicated on each scoring card. These values are typically between 18 and 20 points per card and are located in the lower-right corner. The total of these values is subtracted from your final score to determine your solo score. If you scored 74 points without subtracting these, your actual score might be significantly lower.
+
 [wasteland-map-side-b-question](https://boardgamegeek.com/thread/2330581/wasteland-map-side-b-question)
+
+> On the Wasteland map (Side B), is the grey area considered "filled" space? For example, does it count as filled space when near a mountain?
+
+Yes, the grey area on Side B of the Wasteland map is considered "filled" space. This means shapes cannot overlap these grey spaces, similar to mountain spaces. However, it does not count as a specific terrain type for scoring purposes on cards that require adjacency to certain terrain types, such as the Greengold Plains card.
 
 [end-of-a-round-ambush-card](https://boardgamegeek.com/thread/2307513/end-of-a-round-ambush-card)
 
+> After an Ambush card is revealed and resolved, do we shuffle it back into the deck for the next round, or is it removed from the game?
+
+Once an Ambush card is revealed and resolved, it is removed from the game. It does not get shuffled back into the deck for subsequent rounds.
+
 [monsters-on-edges-of-the-map](https://boardgamegeek.com/thread/2479784/monsters-on-edges-of-the-map)
+
+> When monsters are placed on the edges of the map, do they count as empty spaces with a -1 penalty, or do they score 0?
+
+Monster spaces on the edges of the map score 0, not -1. The area outside the map does not exist in gameplay terms, so it is not considered an "empty space" for scoring purposes. Thus, placing monsters along the edges can reduce the potential negative impact, especially in solo play, where this positioning can be advantageous.
 
 [great-city-scoring-card](https://boardgamegeek.com/thread/2269776/great-city-scoring-card)
 
+> For the Great City scoring card, does a village cluster score if any of its spaces are adjacent to a mountain, or does the entire cluster need to avoid mountain adjacency? Additionally, does each player score their own largest cluster, or is only one player’s cluster scored?
+
+For the Great City card, the entire village cluster must not be adjacent to any mountain spaces to qualify for scoring. If even one space within the cluster is adjacent to a mountain, the whole cluster is disqualified and scores zero points. Each player scores their own map independently, so each player identifies and scores their largest qualifying village cluster. Different players may end up with different scores based on the layout of their maps, and there is no limitation to a single "largest cluster" across all players.
+
 [something-is-wrong](https://boardgamegeek.com/thread/2413019/something-is-wrong)
+
+> At summer, I had no monsters. Does the big city (13 points) count if it’s the only city? Do the big rivers “count twice” on the mountain if they touch it on multiple sides?
+
+Yes, the big city can score even if it’s the only village cluster, as long as it meets the scoring requirements (i.e., it’s not adjacent to any mountains). For the big rivers, each unique water space adjacent to a mountain scores 2 points, regardless of how many sides it touches, so each water space counts only once per mountain.
 
 [cards-with-two-terrain-choices](https://boardgamegeek.com/thread/2439149/cards-with-two-terrain-choices)
 
