@@ -182,11 +182,26 @@ Yes, the big city can score even if it’s the only village cluster, as long as 
 
 [cards-with-two-terrain-choices](https://boardgamegeek.com/thread/2439149/cards-with-two-terrain-choices)
 
+> For a card like Treetop Village, which offers a choice between village or forest terrain, do you have to use only one terrain type for the entire shape, or can you mix both terrain types within the same shape?
+
+You must choose only one terrain type for the entire shape. Mixing terrain types within the same shape is not allowed. This is clarified in the rules (page 6), which state that each player independently chooses one of the terrain types and one of the available shapes, meaning you commit to a single terrain type for the shape.
+
 [monster-scoring](https://boardgamegeek.com/thread/2750029/monster-scoring)
+
+> I juust played my first game and I lost a point for unfilled squares adjacent to a monster.Do I lose points in each season for the same unfilled squares adjacent to a monster, or is it only counted once?
+
+Yes, you lose points for unfilled squares adjacent to a monster at the end of each season, even if they were counted in previous seasons. Your map is reevaluated at the end of every season, with no memory of previous scores, meaning any unfilled spaces next to monsters will continue to count against you in each scoring phase.
 
 [when-given-a-choice-between-two-shapes](https://boardgamegeek.com/thread/2951501/when-given-a-choice-between-two-shapes)
 
+> If given a choice between two shapes, can I select one that won’t fit on the map to then place a 1x1 square instead? Or must I always choose a shape that I can legally draw?
+
+You must choose a shape that you can legally draw on the map if possible. Only if none of the available shapes can be placed legally on the map are you allowed to place a 1x1 square anywhere. Page 6 of the Cartographers rulebook states that "If a player cannot legally draw any of the available shapes, they must instead draw a 1x1 square anywhere on their map and fill it with the chosen terrain type". Also in Page 7 of Cartographers Heroes rulebook, it states that "If a player cannot legally draw any of the available shapes, they must instead draw a 1x1 square anywhere on their map and fill it with any terrain type (excluding mountains)".
+
 [rotate-ambush-shapes](https://boardgamegeek.com/thread/2172672/rotate-ambush-shapes)
+
+> Can shapes from Ambush cards be rotated and flipped like those from regular cards?
+
 
 [cluster](https://boardgamegeek.com/thread/2413140/cluster)
 
