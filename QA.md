@@ -344,45 +344,123 @@ Yes, multiple players can use the same skill card in the same season if they eac
 
 [how-to-count-points-for-path-of-forests](https://boardgamegeek.com/thread/2699071/how-to-count-points-for-path-of-forests)
 
+> For the "Path of Forests" scoring card, how are points counted? If four mountains are connected, is the score 12 points (3 for each connected mountain) or 24 points (6 for each possible path between mountains)?
+
+The score for "Path of Forests" is 3 points for each connected mountain. So if you have four mountains connected, the score would be 12 points total, not 24. Each mountain only counts for a single 3-point connection, even if it is part of multiple paths.
+
 [rules-about-cant-draw-legally](https://boardgamegeek.com/thread/3221884/rules-about-cant-draw-legally)
 
 [stoneside-forest-card](https://boardgamegeek.com/thread/2390607/stoneside-forest-card)
 
+> For the Stoneside Forest card, how should mountain connections be scored? If all five mountains are connected in a loop, does this increase the score beyond 15 points in one season?
+
+Each mountain space connected to another mountain space by a cluster of forest spaces scores 3 points. The scoring is per mountain, not per connection. Therefore, even if you connect all five mountains together in a loop, you still score only a maximum of 15 points for that season (3 points per mountain, with each mountain counting only once).
+
 [ambush-and-arrow-direction-in-solo](https://boardgamegeek.com/thread/2264527/ambush-and-arrow-direction-in-solo)
+
+> How do ambush cards work in solo mode, particularly regarding placement along the map’s edge? What is the "arrow" the manual refers to?
+
+In solo mode, ambush cards specify a starting corner for placement, which is highlighted in purple in the top right corner of the card. After attempting to place the ambush shape in this corner, if it doesn't fit, the shape should be moved along the edge of the map in the direction indicated by the arrow on the bottom of the card (clockwise or counterclockwise). If the shape still cannot be placed after one full rotation along the map edge, you may begin another rotation one space closer to the center.
 
 [largest-cluster-ties](https://boardgamegeek.com/thread/2310688/largest-cluster-ties)
 
+> For scoring cards that require checking the largest cluster, like Great City, what happens if there is a tie between two clusters of the same size?
+
+If you have multiple clusters of the same size that both meet the scoring criteria (e.g., two village clusters each containing 5 spaces and neither is adjacent to a mountain for Great City scoring), you score points based on one of those clusters. So, in this case, you would score 5 reputation stars for one of the clusters, ignoring the other.
+
 [rift-lands-explore-card-why-monster-terrain-type](https://boardgamegeek.com/thread/2262442/rift-lands-explore-card-why-monster-terrain-type)
+
+> The explore card allows you to draw a 1x1 square of any terrain type, including the "monster" terrain. Is there any scenario where choosing the monster terrain type would be beneficial, and why is it included as an option?
+
+Choosing the monster terrain with the Rift Lands card is rarely advantageous, but it can help meet specific goals that require clusters to be adjacent to multiple terrain types, like Greengold Plains. Monsters count as a unique terrain type, allowing players to fulfill such conditions without merging clusters or disrupting other scoring opportunities. Including monsters as an option also keeps the rules straightforward and allows flexibility for future expansions where monster terrain might gain more strategic value.
 
 [card-questions-shoreside-expanse-and-the-broken-ro](https://boardgamegeek.com/thread/2418063/card-questions-shoreside-expanse-and-the-broken-ro)
 
+> For the Shoreside Expanse and The Broken Road scoring cards, do clusters for Shoreside need to stay as isolated islands to collect points? And for The Broken Road, do the diagonal lines need to remain isolated?
+
+For Shoreside Expanse, clusters of farms and water do not need to remain isolated or as islands to score points. As long as each cluster does not touch another cluster of the same type (farm with farm or water with water) or a map edge, those clusters earn 3 victory points. Forests, villages, or other types of spaces can be adjacent without affecting scoring.
+
+For The Broken Road, the diagonal lines do not need to remain isolated. You score for each complete diagonal line of filled spaces that touches both the left and bottom edges of the map. The illustration on the scoring card is intended to show examples but does not impose any requirement for isolation.
+
 [greengold-plains-and-mountains](https://boardgamegeek.com/thread/2391336/greengold-plains-and-mountains)
+
+> Do mountain spaces count as one of the terrain types for scoring the Greengold Plains card?
+
+Yes, mountain spaces do count as one of the terrain types for scoring the Greengold Plains card. The card requires three or more different terrain types, and mountains can be included as one of these types. However, players cannot draw additional mountain spaces; they can only use pre-printed mountain spaces on the map for this scoring.
 
 [asymmetric-start](https://boardgamegeek.com/thread/2471510/asymmetric-start)
 
+> Does Cartographers have a way to ensure asymmetric or varied decisions among players?
+
+While Cartographers begins with the same options for all players, the game offers so many placement choices that players’ maps naturally diverge. There are no rules enforcing asymmetry, but the variety of options each player faces with each card draw usually leads to unique board layouts. Some players choose to make maps hidden until reveal phases to avoid the possibility of copying, though this is not common. The only direct interaction occurs when placing monster cards on opponents’ maps, so generally, each player’s board will develop independently based on personal strategies and priorities.
+
 [wildholds-and-ruins](https://boardgamegeek.com/thread/2250579/wildholds-and-ruins)
+
+> For the Wildholds scoring card, do clusters of villages need to be separated by blank spaces or other terrain? Additionally, if there are adjacent smaller clusters, can these be combined into a larger scoring cluster?
+
+Each cluster of villages for Wildholds must be separated by blank spaces or other types of terrain to count as individual clusters. If adjacent village spaces are all connected, they are considered one large cluster, regardless of the original groups. So, in your example, if you have two clusters of three and two clusters of five village spaces that are all adjacent to each other, they would collectively form a single 16-space cluster rather than multiple clusters for scoring purposes.
+
+> For Ruins spaces, can these be built on at any time, and does the rule requiring placement on Ruins spaces only apply when a Ruins card is revealed?
+
+Yes, Ruins spaces can be filled at any time during the game. However, when a Ruins card is revealed, players must attempt to place the shape on an unfilled Ruins space. If no Ruins spaces are available or if the shape doesn’t fit, players can place a 1x1 square with any terrain type anywhere on their map instead.
 
 [stoneside-forest-scoring-question](https://boardgamegeek.com/thread/2506408/stoneside-forest-scoring-question)
 
+> In the Stoneside Forest scoring card, if I connect three mountains with one forest cluster and two other mountains with a separate forest cluster (the two forests are not connected), how many points do I score?
+
+You would score 15 points each season. For Stoneside Forest, each individual mountain space that connects to at least one other mountain by a forest cluster scores 3 points. The forest clusters do not need to be connected to each other.
+
 [map-affril-edges-of-the-map-equal-edges-of-each-is](https://boardgamegeek.com/thread/2834640/map-affril-edges-of-the-map-equal-edges-of-each-is)
+
+> In the map Affril, do the edges of each island count as "edges of the map" for scoring purposes, especially in scoring cards from the base game that mention map edges (e.g., Sentinel Woods)?
+
+Yes, on the Affril map, each island’s edge is considered an "edge of the map" for scoring purposes in relevant scoring cards like Sentinel Woods and Treetower.
 
 [do-ambushhero-cards-have-available-shapes-or-avail](https://boardgamegeek.com/thread/3021807/do-ambushhero-cards-have-available-shapes-or-avail)
 
+> Can skills that refer to "available shapes" or "available terrain types" (like Cure Wounds, Knowledge, Negotiate, etc.) be used with Ambush or Hero cards?
+
+No, skills that reference "available shapes" or "available terrain types" are only applicable to Explore cards. Ambush and Hero cards are part of the Explore deck but are not considered Explore cards themselves and do not contain "available shapes" or "available terrain types." Therefore, skills that rely on these attributes cannot be used when resolving Ambush or Hero cards.
+
 [ambush-cards](https://boardgamegeek.com/thread/2433884/ambush-cards)
+
+> When Ambush squares are placed on your map by another player, do they count toward completing rows/columns for scoring, or do they disrupt an otherwise complete row/column?
+
+Yes, Ambush (monster) squares count as filled spaces when determining completed rows and columns. All filled spaces—including Ambush squares, mountains, and any special wasteland spaces on the B-side of the map—are valid for completing rows or columns and contributing to scoring.
 
 [ulems-wallow](https://boardgamegeek.com/thread/3264475/ulems-wallow)
 
+> In Ulem's Wallow, why does only one water space earn points, even though all four water spaces are located near multiple farms?
+
+Only individual water spaces with two or more adjacent (non-diagonal) farm spaces qualify for scoring in Ulem's Wallow. In this case, only one specific water space meets this criterion. Adjacent spaces in this game are defined as sharing an edge (above, below, or to the sides), so diagonal adjacency does not count toward scoring.
+
 [coin-shapes-vs-ruins](https://boardgamegeek.com/thread/2641336/coin-shapes-vs-ruins)
 
+> If a card with a shape that includes a coin is drawn after a Ruins card, and I cannot place that shape on a Ruins space, resulting in a 1x1 square placement, do I still get the coin?
+
+No, you do not earn the coin if you are unable to draw the specific shape indicated on the card. The coin bonus is only awarded when you successfully draw the exact shape with the coin symbol.
+
 [shieldgate-edict](https://boardgamegeek.com/thread/2488405/shieldgate-edict)
+
+> How does scoring work for the Shieldgate edict when there are tied clusters? If I have two villages of 5 tiles each, do I score anything? If I have three villages with sizes 5, 5, and 3 tiles, do I score for a 5-tile village or the 3-tile village?
+
+Yes, you do score. When the top two villages are tied for the largest size, you can pick one of them to count as the second-largest and score points for that village. In the case of three villages of sizes 5, 5, and 3, you can consider one of the 5-tile villages as your second-largest village, allowing you to score 5 points for that cluster.
 
 [affril-scoring-question](https://boardgamegeek.com/thread/3371877/affril-scoring-question)
 
 [undercity](https://boardgamegeek.com/thread/2932150/undercity)
 
+> In the Undercity map, must all individual squares in a shape trace back to the gate, or is it only required that the shape as a whole connects back to the gate?
+
+Yes, all squares in a shape must trace back to the gate through orthogonal connections (i.e., sharing an edge). This rule can indeed make some shapes more challenging to place, especially those with diagonal configurations. However, it adds a unique strategic layer to the game by limiting placement options, encouraging creative planning, and rewarding effective use of available space.
+
+If a shape cannot be placed in a way that connects each square back to the gate, you are permitted to draw a 1x1 shape of any non-mountain terrain anywhere on the map as a substitute. While this restriction initially feels limiting, many players find it becomes an engaging part of the Undercity map’s challenge over time.
+
 [ruins-another-clarification-needed](https://boardgamegeek.com/thread/2555743/ruins-another-clarification-needed)
 
 [solo-acrobatics](https://boardgamegeek.com/thread/2794577/solo-acrobatics)
+
+
 
 [first-card-ruin-resolve-like-normal](https://boardgamegeek.com/thread/3277497/first-card-ruin-resolve-like-normal)
 
