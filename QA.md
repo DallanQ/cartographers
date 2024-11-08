@@ -472,39 +472,105 @@ Yes, if the first card drawn is a Ruins card, it is resolved.
 
 [lost-barony](https://boardgamegeek.com/thread/2752432/lost-barony)
 
+> In the Lost Barony, if I only have a single filled square, does it score 3 points?
+
+Yes, a single filled square can score 3 points in the Lost Barony scoring. According to the scoring rule for Lost Barony, you "earn three reputation stars for each space along one edge of the largest square of filled spaces." If the largest square of filled spaces on your map is only 1x1, it still qualifies as a square, and you would earn three reputation stars for that single square.
+
 [draw-monsters-over-ruins](https://boardgamegeek.com/thread/2932394/draw-monsters-over-ruins)
+
+> In a competitive game, can I draw monster shapes over ruins on my opponent's map, or are there restrictions?
+
+Yes, you can draw monster shapes over ruins on your opponent's map without restrictions. Monster cards are not part of the regular card sequence, so you are free to place them over any space, including ruins, as long as the shape fits in the designated area.
 
 [check-phase-and-drawing-a-ruins-card-1st2nd-to-sta](https://boardgamegeek.com/thread/2377457/check-phase-and-drawing-a-ruins-card-1st2nd-to-sta)
 
+> If the time threshold is met or exceeded during the Check Phase, do I skip drawing the current card and proceed directly to the season's end? Additionally, if the first card of a season is a Ruins card, do I follow the standard Ruins protocol, or is it ignored?
+
+In the Time Threshold (Check Phase), you only check if the time threshold is met after the Draw Phase is complete. So, if you are at 7 out of a threshold of 8, you will still draw the next card, even if its time value would exceed the limit. After drawing, you proceed to the Check Phase where, if the total now meets or exceeds the threshold, the season ends immediately.
+
+In Starting Season with a Ruins Card, if a Ruins card is the first drawn card of a season, it is resolved as normal. This means you immediately reveal a second card to place on top of the Ruins card, and you apply the Ruins rule to that second card. There is no special exception for the first turn of the season; the Ruins rule applies the same way on any turn.
+
 [golden-granary-question](https://boardgamegeek.com/thread/2463791/golden-granary-question)
+
+> if you have a 3x3 square completely covered in water with a ruin in the center, does the player score four points?
+
+The scoring for water adjacent to a ruin is 1 point for each water space orthogonally adjacent to a ruin. In this game, "adjacent" is considered orthogonal (not diagonal). So for a 3x3 square with water surrounding a central ruin space, each orthogonally adjacent water space would score 1 point that scoring season. Additionally, a ruin is always considered a ruin space, even if it is covered by another terrain.
 
 [drawing-phase-shape-can-t-be-drawn-legally-terrain](https://boardgamegeek.com/thread/3062087/drawing-phase-shape-can-t-be-drawn-legally-terrain)
 
+> In the drawing phase, if a player cannot legally draw a shape from the exploration card, should they draw a 1x1 shape with a terrain type of their choice, or must it be one of the terrain types specified on the card?
+
+If a player cannot legally draw the shape shown on the exploration card, they should instead draw a 1x1 square anywhere on their map. According to the latest rule clarification, this square can be filled with any terrain type of the player's choice, excluding mountains.
+
 [acrobatics-skill-solo-version](https://boardgamegeek.com/thread/2641326/acrobatics-skill-solo-version)
+
+> In solo mode, if I use the Acrobatics skill, can I choose where to place the monster area, or do I have to follow the solo monster placement rules? Also, can I rotate the monster shape after applying Acrobatics?
+
+In solo mode, you must follow the monster placement rules, starting in the corner indicated by the ambush card and proceeding along the edge of the map as directed by the arrow. The Acrobatics skill allows you to change the shape to either 1x2 or 2x1, but it does not alter the placement corner or direction. Additionally, rotation or mirroring of the monster shape is not allowed in solo mode. However, since Acrobatics permits the shape to be drawn as either 1x2 or 2x1, this flexibility typically makes further rotation unnecessary.
 
 [duda-colocacion](https://boardgamegeek.com/thread/2356260/duda-colocacion)
 
+> Can I place a terrain piece in the indicated free space on my map?
+
+Yes, you can.
+
 [sugestion-for-ambushes-in-solo](https://boardgamegeek.com/thread/2295152/sugestion-for-ambushes-in-solo)
+
+> In solo play, ambush cards seem to be discarded often unless they appear at the very beginning of the game. Is there an official rule for mirroring or rotating the ambush shape if it doesn't fit on the map, or is discarding the only option?
+
+In solo play, if an ambush shape cannot be placed along the edge of the map, you should not discard it immediately. The official rule requires you to go around the map edge once and then move inward one space. Repeat this process, circling the map and moving one space closer to the center each time, until you find a place for the ambush or reach the center. Only if the shape still doesn’t fit after this entire process should it be discarded. This method minimizes the chances of needing to discard an ambush.
 
 [lost-barony](https://boardgamegeek.com/thread/2264124/lost-barony)
 
+> For the Lost Barony scoring, does a 2x2 square need to be isolated with no other tiles touching it, or can it be part of a larger cluster of filled tiles? Also, is there a limit to the size of the square due to mountain or wasteland spaces on the map?
+
+For Lost Barony scoring, a 2x2 square does not need to be isolated and can be part of a larger cluster of filled tiles. Any 2x2 area within a larger filled section can count, as long as it forms a complete square. Regarding the maximum square size, mountain and wasteland spaces are considered "filled spaces" for the purpose of scoring. This means they can be included in the square, allowing for larger configurations beyond just 3x3. This clarification is noted in the rulebook (page 6).
+
 [shieldgate-question](https://boardgamegeek.com/thread/2248798/shieldgate-question)
 
+> How should Shieldgate scoring work if I have three village clusters of sizes 8, 8, and 3? Is one of the clusters with size 8 considered the "second largest," or do they both count as the largest?
+
+In the Shieldgate scoring scenario, if you have village clusters of sizes 8, 8, and 3, one of the 8-sized clusters is considered the second largest. Therefore, you would score it as the second-largest village.
+
 [how-to-score-canal-lake](https://boardgamegeek.com/thread/2336021/how-to-score-canal-lake)
+
+> How do you properly score the Canal Lake scoring card in Cartographers? Specifically, does each farm or water space score only once, and is there an efficient way to calculate the score?
+
+For Canal Lake scoring, each farm space adjacent to a water space scores 1 point, and each water space adjacent to a farm space also scores 1 point. Each space can only score once, regardless of how many adjacent spaces of the other type it has. This means you do not score clusters but rather check each individual farm and water space for adjacency and count accordingly.
 
 [recommended-edicts-for-new-players](https://boardgamegeek.com/thread/2489194/recommended-edicts-for-new-players)
 
 [maxing-out-the-coins](https://boardgamegeek.com/thread/2272297/maxing-out-the-coins)
 
+> If you manage to get all the coins on the sheet but still need to collect coins, do you just keep track of the additional or have you maxed out?
+
+You are limited by the coins on the sheet.
+
 [hortgully-promo-card-question](https://boardgamegeek.com/thread/3285030/hortgully-promo-card-question)
+
+> The new Hortgully hero says “If drawn adjacent to a mountain space, gain 1 coin”. Is this referring to the hero space (with the sword), the attack pattern, or both?
+
+This is referring to the hero space only. To be consistent with theme, Hortgully the expert dungeon builder in Stonespine Architects benefits from being next to the mountains where he builds his dungeons so you get a coin. The attack pattern could not be adjacent while the hero is and you would still get a coin.
 
 [scoring-monsters-in-combination-with-the-cauldrons](https://boardgamegeek.com/thread/2404872/scoring-monsters-in-combination-with-the-cauldrons)
 
 [clarification-on-counting-score-in-solo-mode](https://boardgamegeek.com/thread/2947328/clarification-on-counting-score-in-solo-mode)
 
+> How should scoring be calculated in solo mode for Cartographers, particularly regarding end-of-game scoring adjustments and seasonal scoring?
+
+In solo mode, scoring includes an adjustment at the end of the game after the last season (Winter). You need to subtract a value from your total score, based on the "rating" numbers in the small grey star at the bottom right of each edict card (A, B, C, D). This number is not the same as the scoring values in the corners of your scoreboxes on the map but rather a solo-specific rating adjustment that can affect your final total.
+
 [resolved-ambush-cards-shuffled-back-when-next-seas](https://boardgamegeek.com/thread/2939998/resolved-ambush-cards-shuffled-back-when-next-seas)
 
+> If we've resolved an Ambush card during a season, does it get shuffled back into the explore deck with an additional Ambush card at the start of next season?
+
+No. Once it’s resolved it comes out of the deck. It only stays in the mix and stacks with other ambush cards if you went the whole season without it turning up.
+
 [ruins-further-clarifications-required](https://boardgamegeek.com/thread/2552149/ruins-further-clarifications-required)
+
+> How exactly do ruins cards work in Cartographers? If I draw a ruins card, does it affect the shape and terrain type, and does it count against time? Also, what happens if an ambush card is drawn immediately after a ruins card?
+
+When a ruins card is drawn, it requires that the shape on the next explore card must be placed on a ruins space if available.
 
 [ambush-card-clarification](https://boardgamegeek.com/thread/2690719/ambush-card-clarification)
 
