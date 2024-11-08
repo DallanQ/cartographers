@@ -574,12 +574,32 @@ When a ruins card is drawn, it requires that the shape on the next explore card 
 
 [ambush-card-clarification](https://boardgamegeek.com/thread/2690719/ambush-card-clarification)
 
+> What happens after one card is revealed in a season? Does it go back to the game box?
+
+Yes it does. From page 7 of the rulebook "discard the ambush card, returning it to the game box." This occurs whenever an Ambush card is reveled.
+
 [ambush-card-question-bugbear](https://boardgamegeek.com/thread/2266333/ambush-card-question-bugbear)
 
+> Can any terrain type be placed between the two ambush 2x2 spaces, or does the ambush have to be placed so that the center sections are empty?
+
+It does not matter what is in the spaces or if there even is anything at all. What's important is the spaces themselves. It's only a single space that separates the two parts of the Bugbear ambush shape.
+
 [great-city-query](https://boardgamegeek.com/thread/2572029/great-city-query)
+
+> For the Great City scoring card in Cartographers, does a single village cluster score if it’s the only one, or do you need at least two clusters for it to count? The app only scores when there are two clusters.
+
+Yes, a single village cluster will score for the Great City card as long as it is not adjacent to a mountain space. The Great City card's wording specifies that you earn 1 VP for each village space in the largest cluster of village spaces that is not adjacent to a mountain.
 
 [edicts-and-scoring-cards](https://boardgamegeek.com/thread/2231741/edicts-and-scoring-cards)
 
 [ruins-under-water-can-you-still-be-adjacent](https://boardgamegeek.com/thread/2177025/ruins-under-water-can-you-still-be-adjacent)
 
+> If I draw terrain over a ruins space (like water), does it remove the ruins, and can I still score adjacency to that space as a ruin? Also, is a terrain-covered ruins space considered "filled"?
+
+Drawing terrain over a ruins space does not remove or nullify the ruins; the ruins designation remains active.
+
 [different-icons-in-shape](https://boardgamegeek.com/thread/2472303/different-icons-in-shape)
+
+> When you get an exploration like Fishing Village, do you only pick one terrain for entire shape or can you mix and match?
+
+You select one terrain type for the shape. In page 6 of the rules, it states "After drawing the chosen shape, a player fills the shape with the chosen terrain type."
