@@ -460,9 +460,15 @@ If a shape cannot be placed in a way that connects each square back to the gate,
 
 [solo-acrobatics](https://boardgamegeek.com/thread/2794577/solo-acrobatics)
 
+> When using the "Acrobatics" skill in solo play, does the 2x1 shape need to cover the very first available square indicated by the starting placement rules for Ambush cards?
 
+Yes, when using Acrobatics in solo play, the 2x1 shape must still adhere to the starting placement requirements, beginning with the very first available square indicated by the Ambush card. This means that if square A1 is the first open space, the Acrobatics shape must include A1 and proceed from there, typically covering A1 and B1 or a similar configuration based on availability, without skipping the first required square.
 
 [first-card-ruin-resolve-like-normal](https://boardgamegeek.com/thread/3277497/first-card-ruin-resolve-like-normal)
+
+> If the first card drawn for a season is a Ruins card, should it be resolved or is it omitted?
+
+Yes, if the first card drawn is a Ruins card, it is resolved.
 
 [lost-barony](https://boardgamegeek.com/thread/2752432/lost-barony)
 
