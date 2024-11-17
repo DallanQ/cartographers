@@ -14,7 +14,7 @@ If you have only one cluster, it is the largest one. If you have multiple cluste
 
 > When drawing an Ambush on my opponent's sheet, is it legal to draw it over a ruins space?
 
-Yes, it is legal to draw monster terrain on your opponent's map sheet so that it covers a ruins space. There is often strategic merit in doing so.
+Yes, it is legal to draw monster terrain on your opponent's map sheet so that it covers a ruins space. You can cover a ruins space at any time. The only restriction is that, when a ruins card has been revealed, the terrain shape from the subsequent card must be drawn so that it covers a ruins space, if possible
 
 [scoring](https://boardgamegeek.com/thread/3190747/scoring)
 
@@ -34,9 +34,9 @@ Yes, coins are scored cumulatively. Once you collect a coin, you immediately fil
 
 [is-a-1x1-square-considered-a-shape](https://boardgamegeek.com/thread/2890831/is-a-1x1-square-considered-a-shape)
 
-> Is a 1x1 square considered "a shape"?
+> Is it valid to draw a 1x1 square and then destroy it immediately to gain 1 journal point?
 
-Yes, a 1x1 square is considered a shape.
+Yes, a 1x1 square is considered a shape. if you have the machete, and want to use something like the Riftlands card to draw a 1x1 of forest and immediately destroy it for a journal point, you can do that
 
 [edge-case-filling-the-map](https://boardgamegeek.com/thread/2346255/edge-case-filling-the-map)
 
@@ -88,7 +88,7 @@ According to the official rules, you cannot use both terrain types on a combined
 
 [move-silently-plus-ambush-card-solo-situation](https://boardgamegeek.com/thread/2482357/move-silently-plus-ambush-card-solo-situation)
 
-> In a solo game of Cartographers, can the Move Silently skill be used with Ambush cards? The skill states "draw the chosen shape," but does that apply to monster shapes, and if so, can it affect their placement?
+> In a solo game of Cartographers, can the Move Silently skill be used with Ambush cards? skill states "draw the chosen shape," but does that apply to monster shapes, and if so, can it affect their placement?
 
 Officially, the Move Silently skill is not intended to be used with Ambush cards in solo mode. Although Move Silently allows you to adjust placement by choosing the shape's location, Ambush cards follow strict placement rules that the player cannot modify.
 
@@ -504,9 +504,10 @@ If a player cannot legally draw the shape shown on the exploration card, they sh
 
 [acrobatics-skill-solo-version](https://boardgamegeek.com/thread/2641326/acrobatics-skill-solo-version)
 
-> In solo mode, if I use the Acrobatics skill, can I choose where to place the monster area, or do I have to follow the solo monster placement rules? Also, can I rotate the monster shape after applying Acrobatics?
+> About the Skills card Acrobatics. When playing solo, if I choose to use Acrobatics, other than the orientation 1X2 or 2X1, do I get to choose where to draw the monster area, or do I have to follow solo Monster placement rules?
 
-In solo mode, you must follow the monster placement rules, starting in the corner indicated by the ambush card and proceeding along the edge of the map as directed by the arrow. The Acrobatics skill allows you to change the shape to either 1x2 or 2x1, but it does not alter the placement corner or direction. Additionally, rotation or mirroring of the monster shape is not allowed in solo mode. However, since Acrobatics permits the shape to be drawn as either 1x2 or 2x1, this flexibility typically makes further rotation unnecessary.
+You do have to follow the monster placement rules for solo mode, so starting in the corner indicated by the ambush card, and
+proceeding along the edge of the map in the direction indicated by the arrow. Acrobatics thus only changes the shape, not the initial corner and direction. Also, you're not allowed to rotate/mirror an ambush card in solo. But that doesn't matter with Acrobatics, because you are allowed to draw the shape 2x1 as well as 1x2. This makes a later rotation/mirroring obsolete.
 
 [duda-colocacion](https://boardgamegeek.com/thread/2356260/duda-colocacion)
 
@@ -564,13 +565,14 @@ In solo mode, scoring includes an adjustment at the end of the game after the la
 
 > If we've resolved an Ambush card during a season, does it get shuffled back into the explore deck with an additional Ambush card at the start of next season?
 
-No. Once it’s resolved it comes out of the deck. It only stays in the mix and stacks with other ambush cards if you went the whole season without it turning up.
+No. Once it’s resolved it comes out of the deck. It only stays in the mix and stacks with other ambush cards if you went the whole season without it turning up. Also,  This is mentioned on page 7 of the Cartographers rulebook: "This is mentioned on page 7 of the Cartographers rulebook". This means, at most, you will only ever see each Ambush card once.
 
 [ruins-further-clarifications-required](https://boardgamegeek.com/thread/2552149/ruins-further-clarifications-required)
 
-> How exactly do ruins cards work in Cartographers? If I draw a ruins card, does it affect the shape and terrain type, and does it count against time? Also, what happens if an ambush card is drawn immediately after a ruins card?
+> The rules on ruins state: "If one or more ruins cards are revealed, each player must draw one of the available shapes, depicted on the next explore card that is revealed, so that it overlaps a ruins space on their map (if possible)."
+However, if you draw a shape with a coin, do you get the coin? What about the time, does the card drawn to know what to draw for the ruins card count against that?
 
-When a ruins card is drawn, it requires that the shape on the next explore card must be placed on a ruins space if available.
+The other options for the explore card remain the same - choices between shapes and terrain type still apply. Time also runs the same way, the explore card with the shape being drawn affects time passage normally. The only thing the ruins card changes is that the shape drawn has to use one of the ruins squares if possible. All that a revealed ruins card does is introduce a placement requirement for the shape on the next explore card. Nothing about the rest of the Draw Phase changes at all.
 
 [ambush-card-clarification](https://boardgamegeek.com/thread/2690719/ambush-card-clarification)
 

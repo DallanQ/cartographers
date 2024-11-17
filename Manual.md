@@ -8,13 +8,26 @@ out the queen’s edicts before the season is over.
 
 The player with the most reputation stars at the end of winter wins!
 
+## Components (Page 3)
+ - 100 MAP SHEETS (double sided)
+ - 13 EXPLORE CARDS 
+ - 16 SCORING CARDS
+ - 4 AMBUSH CARDS
+ - 4 SEASON CARDS
+ - 4 EDICT CARDS
+ - 4 PENCILS
+
+
+
+
+
 ## Game Setup (Page 4)
 
 1. Give each player a blank **map sheet**. Players collectively decide whether to use the wilderness side (A) or the wastelands side (B).
 2. Give each player a **pencil**. If playing with more than four players, additional pencils will need to be provided.
 3. Have each player write a **name** for their cartographer at the top of their map sheet, optionally adding a title and family crest.
 
-> A Half player’s map sheet with a name, title, and family crest written at the top is shown.
+>An Image that decipts a half player’s map, with a "THUNDERLAND" displayed on the banner having a crown on it and below it is a two crossed swords are positioned under a badge, creating a crest-like appearance.  At the right is the Cartographer name and title and to the left  is a compass rose is included, adding a navigational element. It features traditional cardinal directions (N, S, E, W). 
 
 4. Arrange the four **edict cards** in a face-up row in the center of the play area, so that they are in alphabetical order (Edict A, Edict B, etc.).
 5. Separate the **scoring cards** into four stacks according to their card backs. Shuffle the stacks separately, then randomly draw one card from each stack. Place one of these scoring cards in any order below each of the edict cards, face up. Return the rest of the scoring cards to the game box.
@@ -177,7 +190,7 @@ When scoring, keep in mind these general rules:
 
 **Canal Lake**: Earn one reputation star for each water space adjacent to at least one farm space. Earn one reputation star for each farm space adjacent to at least one water space.
 
-> iamge of the "Golden Granary" card with ruins surrounded by water and farm spaces.
+> image of the "Golden Granary" card with ruins surrounded by water and farm spaces.
 
 **The Golden Granary**: Earn one reputation star for each water space adjacent to a ruins space. Earn three reputation stars for each farm space on a ruins space.
 
