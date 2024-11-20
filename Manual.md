@@ -8,19 +8,6 @@ out the queen’s edicts before the season is over.
 
 The player with the most reputation stars at the end of winter wins!
 
-## Components (Page 3)
- - 100 MAP SHEETS (double sided)
- - 13 EXPLORE CARDS 
- - 16 SCORING CARDS
- - 4 AMBUSH CARDS
- - 4 SEASON CARDS
- - 4 EDICT CARDS
- - 4 PENCILS
-
-
-
-
-
 ## Game Setup (Page 4)
 
 1. Give each player a blank **map sheet**. Players collectively decide whether to use the wilderness side (A) or the wastelands side (B).
