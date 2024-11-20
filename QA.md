@@ -34,7 +34,7 @@ Yes, coins are scored cumulatively. Once you collect a coin, you immediately fil
 
 [is-a-1x1-square-considered-a-shape](https://boardgamegeek.com/thread/2890831/is-a-1x1-square-considered-a-shape)
 
-> Is it valid to draw a 1x1 square and then destroy it immediately to gain 1 journal point?
+> Is a 1x1 square considered "a shape"? Is it valid to draw a 1x1 square and then destroy it immediately to gain 1 journal point?
 
 Yes, a 1x1 square is considered a shape. if you have the machete, and want to use something like the Riftlands card to draw a 1x1 of forest and immediately destroy it for a journal point, you can do that
 
@@ -504,7 +504,7 @@ If a player cannot legally draw the shape shown on the exploration card, they sh
 
 [acrobatics-skill-solo-version](https://boardgamegeek.com/thread/2641326/acrobatics-skill-solo-version)
 
-> About the Skills card Acrobatics. When playing solo, if I choose to use Acrobatics, other than the orientation 1X2 or 2X1, do I get to choose where to draw the monster area, or do I have to follow solo Monster placement rules?
+> When playing solo, if I choose to use the Skills card Acrobatics, other than the orientation 1X2 or 2X1, do I get to choose where to draw the monster area, or do I have to follow solo Monster placement rules?
 
 You do have to follow the monster placement rules for solo mode, so starting in the corner indicated by the ambush card, and
 proceeding along the edge of the map in the direction indicated by the arrow. Acrobatics thus only changes the shape, not the initial corner and direction. Also, you're not allowed to rotate/mirror an ambush card in solo. But that doesn't matter with Acrobatics, because you are allowed to draw the shape 2x1 as well as 1x2. This makes a later rotation/mirroring obsolete.
