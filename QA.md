@@ -4,11 +4,21 @@
 
 From the rule book "If a player cannot legally draw the depicted shape on their neighbor's map, they must instead draw a 1x1 square anywhere on their neighbor's map and fill it with the monster terrain type."
 
+---
+Page 7
+
+If a player cannot legally draw the depicted shape on their neighbor’s map, they must instead draw a 1x1 square anywhere on their neighbor’s map and fill it with the monster terrain type.
+
 [great-city-what-if-theres-only-one-village-cluster](https://boardgamegeek.com/thread/2326507/great-city-what-if-theres-only-one-village-cluster)
 
 > Regarding the Great City, what if there is only one village cluster on the map? Does it still count as the largest one or do you need at least two clusters for this card to score?
 
 If you have only one cluster, it is the largest one. If you have multiple clusters, you sort them by size in a descending order and pick the first one.
+
+----
+Page 10 
+
+Great City: Earn one reputation star for each village space in the largest cluster of village spaces that is not adjacent to a mountain space.
 
 [ambush-placement-on-ruins-legal](https://boardgamegeek.com/thread/2276817/ambush-placement-on-ruins-legal)
 
@@ -16,15 +26,35 @@ If you have only one cluster, it is the largest one. If you have multiple cluste
 
 Yes, it is legal to draw monster terrain on your opponent's map sheet so that it covers a ruins space. You can cover a ruins space at any time. The only restriction is that, when a ruins card has been revealed, the terrain shape from the subsequent card must be drawn so that it covers a ruins space, if possible
 
+----
+Page 6
+
+The chosen shape may be drawn so that it overlaps a ruins space on the map.
+
 [scoring](https://boardgamegeek.com/thread/3190747/scoring)
 
 > When scoring AB, then BC, then CD, and AD, do I count the same shapes from previous seasons that I already scored in the next seasons?
 
 Yes, you do!
 
+----
+Page 
+
+Each player evaluates their own map to determine how many reputation stars they earn for each of the two scoring cards being evaluated this season, writing those numbers in the corresponding boxes.
+
 > Should I mark the shapes with coins in a special way to remember to collect coins from them in the following seasons?
 
 As soon as you gain a coin for any reason, you immediately fill in one of the coin circles along the horizontal row beneath the map. When it is time to score, simply count how many coins you have filled in. You will get to count the same coins again in future seasons, plus any additional coins you acquire.
+
+----
+Page 6
+
+Some shapes come with a coin. If a player chooses a shape with a coin, they fill in the next coin symbol on their coin track.
+
+----
+Page 8 
+
+Each player earns one reputation star for each filled-in coin symbol on their coin track, writing that number in the corresponding box.
 
 [coins](https://boardgamegeek.com/thread/2307486/coins)
 
@@ -32,17 +62,16 @@ As soon as you gain a coin for any reason, you immediately fill in one of the co
 
 Yes, coins are scored cumulatively. Once you collect a coin, you immediately fill in a coin circle, and all filled-in circles are counted at each scoring phase. This is implied in the rulebook, as it instructs players to blacken the coin circles when earned, and they are counted in each scoring round.
 
+----
+Page 8 
+
+Each player earns one reputation star for each filled-in coin symbol on their coin track, writing that number in the corresponding box.
+
 [is-a-1x1-square-considered-a-shape](https://boardgamegeek.com/thread/2890831/is-a-1x1-square-considered-a-shape)
 
-> Is a 1x1 square considered "a shape"? Is it valid to draw a 1x1 square and then destroy it immediately to gain 1 journal point?
-
-Yes, a 1x1 square is considered a shape. if you have the machete, and want to use something like the Riftlands card to draw a 1x1 of forest and immediately destroy it for a journal point, you can do that
 
 [edge-case-filling-the-map](https://boardgamegeek.com/thread/2346255/edge-case-filling-the-map)
 
-> In solo mode I filled the map with 1 card flip left in Winter of the solo version on the back side of the map. What do I do with the last card flip? Do I ignore the card, and do I still score the coin if the card gives one?
-
-In the rare instance that the map sheet is completely filled, the game immediately ends, and you move directly to scoring. Regarding the coin, if you are forced to place a single square but cannot place it, you do not gain the coin.
 
 [2-ruins-card](https://boardgamegeek.com/thread/2283080/2-ruins-card)
 
@@ -50,11 +79,26 @@ In the rare instance that the map sheet is completely filled, the game immediate
 
 If both Ruins cards come up in a row, draw the next explore card on the Ruins space, not the next two shapes. The rules say "If one or more ruins cards are revealed..."
 
+----
+Page 5
+
+If the first revealed card is a ruins card, immediately reveal another card from the explore deck and place it on top of the ruins card.
+
+----
+Page 5
+
+If the second revealed card is also a ruins card, immediately reveal another card from the explore deck and place it on top of both ruins cards.
+
 [borderlands-question](https://boardgamegeek.com/thread/2777299/borderlands-question)
 
 > The Borderlands card instructions reads, "Earn six reputation stars for each complete row or complete column of filled spaces." Do the rows or columns have to be on the border of the map, or can they be from any row or column?
 
 Any row or column will score. It does not have to be on the edge of the map.
+
+----
+Page 11
+
+**Borderlands:** Earn six reputation stars for each complete row or complete column of filled spaces.
 
 [scoring-edicts-twice-how-is-this-done](https://boardgamegeek.com/thread/2526996/scoring-edicts-twice-how-is-this-done)
 
@@ -62,17 +106,32 @@ Any row or column will score. It does not have to be on the edge of the map.
 
 The game doesn't require you to remember what was scored previously. When it’s time to score a given edict, you evaluate the map in its current state and score it as it is at that moment.
 
+----
+Page 8 
+
+Each player evaluates their own map to determine how many reputation stars they earn for each of the two scoring cards being evaluated this season, writing those numbers in the corresponding boxes.
+
 [on-placing-monsters](https://boardgamegeek.com/thread/2668858/on-placing-monsters)
 
 > When placing monsters in solo mode, I must start at the given corner as dictated by the raid card itself. If I'm unable to draw it, I move to the next corner using the arrow on the card and continue inward one square at a time. Can I change the orientation of the monster raid if no corner can accommodate it?
 
 No, you do not change the orientation of the monster. You move around the edge of the entire board before you move inward one square. You are not allowed to rotate the Ambush shape.
 
+----
+Page 12
+
+On your map sheet, starting in the corner indicated by the ambush card, and proceeding along the edges of the map in the direction indicated by the arrow, attempt to legally draw the monster shape without flipping or rotating it.
+
 [shield-gate-scoring](https://boardgamegeek.com/thread/2651761/shield-gate-scoring)
 
 > The Shield Gate scoring card states, "Earn two reputation stars for each village space in the second largest cluster of village spaces." What happens if I only have one cluster of village spaces? Do I still get points?
 
 No, you do not score any points.
+
+----
+Page 10
+
+**Shieldgate:** Earn two reputation stars for each village space in the second largest cluster of village spaces. If there are multiple largest clusters, score one of the largest.
 
 [is-an-ambush-card-added-in-spring](https://boardgamegeek.com/thread/3387011/is-an-ambush-card-added-in-spring)
 
@@ -565,12 +624,12 @@ In solo mode, scoring includes an adjustment at the end of the game after the la
 
 > If we've resolved an Ambush card during a season, does it get shuffled back into the explore deck with an additional Ambush card at the start of next season?
 
-No. Once it’s resolved it comes out of the deck. It only stays in the mix and stacks with other ambush cards if you went the whole season without it turning up. Also,  This is mentioned on page 7 of the Cartographers rulebook: "This is mentioned on page 7 of the Cartographers rulebook". This means, at most, you will only ever see each Ambush card once.
+No. Once it’s resolved it comes out of the deck. It only stays in the mix and stacks with other ambush cards if you went the whole season without it turning up. Also, This is mentioned on page 7 of the Cartographers rulebook: "This is mentioned on page 7 of the Cartographers rulebook". This means, at most, you will only ever see each Ambush card once.
 
 [ruins-further-clarifications-required](https://boardgamegeek.com/thread/2552149/ruins-further-clarifications-required)
 
 > The rules on ruins state: "If one or more ruins cards are revealed, each player must draw one of the available shapes, depicted on the next explore card that is revealed, so that it overlaps a ruins space on their map (if possible)."
-However, if you draw a shape with a coin, do you get the coin? What about the time, does the card drawn to know what to draw for the ruins card count against that?
+> However, if you draw a shape with a coin, do you get the coin? What about the time, does the card drawn to know what to draw for the ruins card count against that?
 
 The other options for the explore card remain the same - choices between shapes and terrain type still apply. Time also runs the same way, the explore card with the shape being drawn affects time passage normally. The only thing the ruins card changes is that the shape drawn has to use one of the ruins squares if possible. All that a revealed ruins card does is introduce a placement requirement for the shape on the next explore card. Nothing about the rest of the Draw Phase changes at all.
 
